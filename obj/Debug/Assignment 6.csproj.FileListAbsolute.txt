@@ -1,0 +1,14 @@
+C:\Users\Adrian\Google Drive\Documents\UTRGV Work\Fall 2017\C#\Assignment 6\obj\Debug\Assignment_6.StartScreen.resources
+C:\Users\Adrian\Google Drive\Documents\UTRGV Work\Fall 2017\C#\Assignment 6\obj\Debug\Assignment_6.GameInterface.resources
+C:\Users\Adrian\Google Drive\Documents\UTRGV Work\Fall 2017\C#\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment_6.StartScreen.resources
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment_6.GameInterface.resources
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Adrian\Desktop\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Adrian\Desktop\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Adrian\Desktop\Assignment 6\obj\Debug\Assignment 6.pdb
